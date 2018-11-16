@@ -165,7 +165,7 @@ public class GamePanel extends JPanel implements ActionListener{
 			bName = "bronze";
 			img = new ImageIcon("./images/bronze"+".jpg");
 		}
-		if(count >5 && count< 10){
+		if(count >=5 && count< 10){
 			bName = "sliver";
 			img = new ImageIcon("./images/silver"+".jpg");
 		}
