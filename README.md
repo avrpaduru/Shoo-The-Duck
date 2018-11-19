@@ -10,7 +10,7 @@ A GUI game developed in Java using swings. The goal of this application is to us
 1) You need to download jdk and set the classpath in your environmental variables. You can google it or search it in youtube to install and setting up classpath, below is a youtube link that might be helpful to you:
 https://www.youtube.com/watch?v=7OhO91g9ID0
 
-I was using JDK8 when I have developed it.
+Use  any version from Java8 or above. I was using JDK8 when I have developed it. Make sure you have updated your java and it is working fine.
 
 2) Download the game folder named "Shood the Duck" and go to the game folder(Shoot the Duck) and double click on the "Game.bat" file to run the game. Alternatively, you can go to the corresponding directory from you command promt and then you can execute the following command in your command promt:
 java -cp ./classfiles GameFrame
